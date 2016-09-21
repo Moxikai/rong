@@ -1,0 +1,6 @@
+.git/
+.idea/
+*.pyc
+*.db
+.DS_Store
+.cache/
